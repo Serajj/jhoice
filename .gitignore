@@ -1,0 +1,13 @@
+/node_modules
+/vendor
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+.editorconfig
+_ide_helper*
+/.eslintrc.js
+/yarn.lock
